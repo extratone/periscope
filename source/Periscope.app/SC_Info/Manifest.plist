@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Periscope.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/Amplitude_iOS.framework/SC_Info/Amplitude_iOS.sinf</string>
+		<string>Frameworks/Branch.framework/SC_Info/Branch.sinf</string>
+		<string>Frameworks/CocoaAsyncSocket.framework/SC_Info/CocoaAsyncSocket.sinf</string>
+		<string>Frameworks/DJISDK.framework/SC_Info/DJISDK.sinf</string>
+		<string>Frameworks/FaceMasks.framework/SC_Info/FaceMasks.sinf</string>
+		<string>Frameworks/FastImageCache.framework/SC_Info/FastImageCache.sinf</string>
+		<string>Frameworks/FormatterKit.framework/SC_Info/FormatterKit.sinf</string>
+		<string>Frameworks/GPUImage.framework/SC_Info/GPUImage.sinf</string>
+		<string>Frameworks/GoProDynamicLibraryWrapper.framework/SC_Info/GoProDynamicLibraryWrapper.sinf</string>
+		<string>Frameworks/INSMediaSDK.framework/SC_Info/INSMediaSDK.sinf</string>
+		<string>Frameworks/INSNanoSDK.framework/SC_Info/INSNanoSDK.sinf</string>
+		<string>Frameworks/JBChartView.framework/SC_Info/JBChartView.sinf</string>
+		<string>Frameworks/PeriscopeViewer.framework/SC_Info/PeriscopeViewer.sinf</string>
+		<string>Frameworks/ProtocolBuffers.framework/SC_Info/ProtocolBuffers.sinf</string>
+		<string>Frameworks/SocketRocket.framework/SC_Info/SocketRocket.sinf</string>
+		<string>Frameworks/SuperResolution.framework/SC_Info/SuperResolution.sinf</string>
+		<string>Frameworks/YOLayout.framework/SC_Info/YOLayout.sinf</string>
+		<string>Frameworks/pop.framework/SC_Info/pop.sinf</string>
+		<string>PlugIns/NotificationContentExtension.appex/SC_Info/NotificationContentExtension.sinf</string>
+		<string>PlugIns/NotificationServiceExtension.appex/SC_Info/NotificationServiceExtension.sinf</string>
+		<string>PlugIns/ReplayKitHandlerExtension.appex/SC_Info/ReplayKitHandlerExtension.sinf</string>
+		<string>PlugIns/ReplayKitUIExtension.appex/SC_Info/ReplayKitUIExtension.sinf</string>
+		<string>SC_Info/Periscope.sinf</string>
+	</array>
+</dict>
+</plist>
