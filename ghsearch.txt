@@ -1,0 +1,30 @@
+tyrantgit/HeartLayout	periscope like heartlayout	public	2022-05-07T10:52:07Z
+AlanCheen/PeriscopeLayout	A layout with animation like Periscope's	public	2022-04-18T14:01:49Z
+patrickdessalle/periscope	Python module searching subtitles on the web. Used in plugins for the GNOME desktop.	public	2022-01-03T20:07:00Z
+laserlemon/periscope	Push your models' scopes up to the surface.	public	2022-01-15T15:31:41Z
+gabrielg/periscope_api	Ruby Periscope API client	public	2021-06-03T18:45:09Z
+saidmarouf/FloatingHearts	Periscope-Like flowing hearts animation.	public	2022-03-26T14:12:42Z
+yoavlt/PeriscommentView	Showing comments like Periscope	public	2022-04-19T15:31:12Z
+gontovnik/Periscope-VideoViewController	Video view controller with Periscope fast rewind control	public	2022-04-04T21:02:10Z
+Pmmlabs/OpenPeriscope	Unofficial Periscope client	public	2021-09-01T12:29:19Z
+Azure/aks-periscope	aks-periscope aims to detect various kubernetes cluster problems	public	2022-05-08T23:16:17Z
+oslabs-beta/Periscope		public	2022-04-19T19:55:26Z
+underscopeio/react-native-floating-hearts	Periscope floating hearts animation for React Native	public	2022-02-13T06:37:26Z
+anishathalye/periscope	Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭	public	2022-05-15T12:38:27Z
+rharkanson/pyriscope	A simple Periscope video downloader for Python.	public	2022-02-06T12:25:31Z
+securesystemslab/periscope		public	2022-04-23T03:16:16Z
+scivision/PyLivestream	Pure Python FFmpeg-based live video / audio streaming to YouTube, Facebook, Periscope, Twitch, and more	public	2022-05-20T08:51:19Z
+ariok/TB_PeriscopePTR		public	2021-10-28T12:19:38Z
+neuhausi/periscope	An assistive shiny application toolkit built for scaling and standardizing application development	public	2022-02-26T06:31:15Z
+mrajcok/angularjs-periscope	A tool for visualizing AngularJS prototypal $scope inheritance, $scope data structures, and services	public	2022-02-14T20:22:35Z
+kilolumen/PeriscopeHeartAnimation	An animation similar to periscope point Like	public	2017-05-04T03:20:54Z
+gitnew2018/My-OpenPeriscope	Periscope.tv client and downloader based on Pmmlabs/OpenPeriscope	public	2021-01-18T19:26:03Z
+anaglik/PeriscopyPullToRefresh	Pull-To-Refresh view inspired by Periscope application written in swift	public	2022-02-16T22:33:58Z
+matteocontrini/node-periscope-stream	📷 Get details about a Periscope live	public	2021-12-15T22:17:31Z
+bnb/awesome-developer-streams	👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming	public	2022-05-20T22:00:57Z
+matteocontrini/node-periscope-recorder	Get Periscope lives from Twitter and record them	public	2021-12-15T22:17:32Z
+aliosmanyuksel/periscopr-api	A PHP library for interacting with the private Periscope (https://periscope.tv) API	public	2021-09-01T05:35:14Z
+sequenceiq/periscope	Periscope brings SLA policy based autoscaling to Hadoop	public	2021-07-09T12:49:34Z
+twitter-archive/periscope-live-engagement-unity-sdk	Periscope Live Engagement Unity SDK	public, archived	2022-01-27T22:01:05Z
+baliscope/periapi	Tool to archive Periscope broadcasts	public	2021-12-30T18:16:13Z
+Iojjj/LikesLayout	Implementation of layouts that allow to add likes in Periscope style	public	2021-11-16T08:43:27Z
