@@ -1,0 +1,1290 @@
+[
+  {
+    "broadcast_id": "1jMJgrVAggWGL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/bNlsgqRvGfxJba-vFVVjq7iTlWxHfpZA-NPH1xrEBwj8UZ_uw_otyBouwFNjjLQQD0xtgDZFaQ_M-BC4201nUw%3D%3D/SingleFile/periscope-broadcast-1jMJgrVAggWGL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6f32fb793ea369b27ecb69dc98fe9db26d03c6fd04cd10a2cdaa664b814ead5e",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1dRKZmrrlabxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/IqkGF9ltaGu3zIMV-0s2HzGaQVPqC2Kf-DY9azKPiV2EfT7GRkzApf-KWjPC-vRRSnKoESvUgAeHse9PFcmhvg/SingleFile/periscope-broadcast-1dRKZmrrlabxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=d157fc3fa6a38d26f8c70c01aac7a1826e957bc404621f948bb69a00e2d1bf96",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1djGXpkYrYoGZ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/rNacTLCUoF2lS8ZV7ezrRFlzOLGIgjOlGt29KD9Wz8Yx7kvG9f1-qtoZI5Nalc9mvH2uTt1QesCCsTW2usHdnQ/SingleFile/periscope-broadcast-1djGXpkYrYoGZ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=c9b899070fcc871babb94617b6ed22cb81724cd195f06299f2e10a58e44c8fc9",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1kvJppXDjDwJE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/2iiJ9wA8oDw49kqZQlpCvFzct_wJpPBKGVhaxfDubbcw5VsQfhDnsEUiWlQKMEDPpCrp1xoGgE6yhkmhVUbZ7Q%3D%3D/SingleFile/periscope-broadcast-1kvJppXDjDwJE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1298420d1b5048d2e5cace6260df3a9cf3aadae4e8e357db99a6b2f2938fce94",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1dRKZOprEWzGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/PdqCum085dAvkeDKRxnLXDouaCz2lTCDEthWZ6SKP-v5mxg6ulT8Y1c1LpvynkgCWB4R8kW5Rit5AuqFK8LKGg/SingleFile/periscope-broadcast-1dRKZOprEWzGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212031Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f8fbec22d52b465a26b83df5dbf39bfcffc5f1fb3035d456c6ab4a0105b2bd6e",
+    "expiration_epoch_seconds": 1657488031,
+    "updated_at_epoch_seconds": 1656883231
+  },
+  {
+    "broadcast_id": "1RDxlOmOQAMJL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/fOiWr0U2_62oUkDOuIBoQmNBBxAaLbmVkzTQBRnaovFPEp6wlGX0IwMAFAizmMvQYspWHidC1I4xf6PMGotRWQ%3D%3D/SingleFile/periscope-broadcast-1RDxlOmOQAMJL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e3e5b13d63856560b3a305943d95901ea5f0e142d4cc363e45a4c976b89bfd27",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1ZkJzmMzYMqGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/TIXvoD2ukd5g1lBpBh-zPVLGaIgM00tavdIDFnH4M0uEWoSG1G7l-aROE1CmapHaydM7UZbzOB-CFrBHphG-MA/SingleFile/periscope-broadcast-1ZkJzmMzYMqGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1ed400a693e2ef5fb1b9cc82b2cb9001082e37917192c5ac70e56f705443bff2",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1dRKZnOZNabKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/I7oIkCE_wm0f7CbgcvUciiVLDNeJTTyPoDN53BcsdZmrQeWm2U0Cn6GrOknlPRUnUpo_bHLKKXBoXKYU7awd9w/SingleFile/periscope-broadcast-1dRKZnOZNabKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212012Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=0f92cce7693a414c3df6b4d9276cfb6f3730e2b676ca65bfdfe2c68e2b61e608",
+    "expiration_epoch_seconds": 1657488012,
+    "updated_at_epoch_seconds": 1656883212
+  },
+  {
+    "broadcast_id": "1yoKMlPeoepxQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/gSRWNoS-VL3womwyRn8k3363QndYEK1LEPxoMLwVFlR2HsCSPnBTOGu3En2-P735geDWPNCxS1VXKFD5idsubw%3D%3D/SingleFile/periscope-broadcast-1yoKMlPeoepxQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2badef5f006420d665edc4a36cd53b2c162a11e8c9266e23339f69df4d31554a",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1YqKDedeypvGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/skwkq1an62D9Nq0x1-MjKQlb0NPsPWIoThLn-3iMBQF4SfSg5fQTJl2Mm6RmivB7qxEtl-pzUIvuV-KFSy5Mrw/SingleFile/periscope-broadcast-1YqKDedeypvGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T213939Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=a1bbeadd2c34ae90037c9fb632d51e1678462b93bd1eefc9cf3ae8ee0f0adc3d",
+    "expiration_epoch_seconds": 1657489179,
+    "updated_at_epoch_seconds": 1656884379
+  },
+  {
+    "broadcast_id": "1mnxeYQlyLaxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/7q35hxzo9CPm5fxo_hPnH5JE_PKi0-L72TWEyEfOdOM-KblqStUJXfpymS0i2JQLXFVC0K0-K_PTUEBmYZDDoA%3D%3D/SingleFile/periscope-broadcast-1mnxeYQlyLaxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=837c5424d3d09d7ea2175f15134e23e1b30278565f49dbb21ebfb71e32831382",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1rmxPYwzmzLKN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/pEgxfzvHXi6MxPi3oSmWGtk1qSKOoCfSxftmF1SVLJ53T2mDiu9bGqH4fRTY57YAOs4l6H4wW-CDOPrIiEQOuQ/SingleFile/periscope-broadcast-1rmxPYwzmzLKN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cb4452412eda607cfcabd24d06fb619114ddc27ae17931f7928abc2e8d0a686d",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1lPJqXjeQeEGb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/j-qX9N5GomUXhbvPKIuzWshxrrmqpfQ75wwo2ENK__BcJO6PcwFlKWXcCc3F0Uoogv7NtFVdzJOlVzECRCBGng/SingleFile/periscope-broadcast-1lPJqXjeQeEGb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=66220ff978af8f912a515085bd977a3d9400b6193197bfe6e59501bfc46b5b6b",
+    "expiration_epoch_seconds": 1657488009,
+    "updated_at_epoch_seconds": 1656883209
+  },
+  {
+    "broadcast_id": "1BdGYWaYyYvxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/_3JlOWJbhVo0gO71IYblhrHa04tDMWHDkjOMVcG-TMdoG8CjvebA595OZ4Byn5aAvtkKRScrDr7SqY-Bjfy8fQ/SingleFile/periscope-broadcast-1BdGYWaYyYvxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=c269067be27c3abc161d2fdde4dab7a1ab7b56aabbb3711bcef9917bfab690fb",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1YqGoZANmLlKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/SE7qGPi7FDUdg7H7oh68wtc6JGr34doKoEN8l27jXBKcNMSffL8AYHwmf68KtwmZCRX--PKvSK4gGAe0vUo9mA%3D%3D/SingleFile/periscope-broadcast-1YqGoZANmLlKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e645f07f97513ca12de07642bddf0fa5f90d10cefd1c016cc2f48a1f5cebe0ef",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1OwxWqVdmXMGQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/FALOtS6VHyZYYGaINSzzTgfjAe9yfAmrdHSEESldkrUlDU5ODHiiz6kfoxNueLGy7AiLOLrYkMJLC-9L64O7gw%3D%3D/SingleFile/periscope-broadcast-1OwxWqVdmXMGQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5a137598f376a332c0a9143d3e8a6de535b37daf23ed7122bc0014631f9e587e",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1OyKApYeaeWxb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/CxZEPGPEVnWlVOweicsPxTI3wNj1S_10vMD2Ot0tRtCNERVVU1Gzg-xV3whly8_TSMqusvAVJCqLqNykKwkiCg/SingleFile/periscope-broadcast-1OyKApYeaeWxb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212022Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bc5a1bd9e9f7ac088603baafc4591af9569767313d55768556521da673b92f6a",
+    "expiration_epoch_seconds": 1657488022,
+    "updated_at_epoch_seconds": 1656883222
+  },
+  {
+    "broadcast_id": "1lDxLMBQWdQKm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/tluM6R3x70MzdyCCVvdgU5oG8jM6vGoArKNP_ss9TdOIx4NHvGmthYL2Zb0ovFKrn9q9_b34hSWn_0nU7bk83A/SingleFile/periscope-broadcast-1lDxLMBQWdQKm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=39c598d8803497f02db6ea34f30086d4260e9e956c907050413ae5ebdf1216b3",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1OdJrgjNvoAxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/TF5nYobE8T9MnOnXOrlC9c-TApp-JvxxHaiLIYEHNnaLujA2gxpu71OSgOf3qzoAWJyUJ9bFOvwiwdcQM8hsqg/SingleFile/periscope-broadcast-1OdJrgjNvoAxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212018Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=28f7f3158a6fed62d19770b5dea28bb35a1568ec8796e7bdaa7796a3de155951",
+    "expiration_epoch_seconds": 1657488018,
+    "updated_at_epoch_seconds": 1656883218
+  },
+  {
+    "broadcast_id": "1BdxYOnVoryGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ZoN8Uo4K7i9cv2sP9QpoCec_6Y8lnVoa_5BgED7pC7GDCXhl2KtmL35rJKWBtA5FFvHqrNR4vDbFN50E02_n8g/SingleFile/periscope-broadcast-1BdxYOnVoryGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=800b99f057aebfe8f09448e4d2e116c684c7cc8d40f7e6bd507071bffc36c0e6",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1OwGWbNPLQMKQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/SOodifeZ-9HQR5-9BWoPEfedwdjswallnjAqq_I6gJ9Groh_SPBOKUNoOX8mDjaAaov-Z9wKbH1Om5d_PRSwmA%3D%3D/SingleFile/periscope-broadcast-1OwGWbNPLQMKQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=4699d54363704e6aa8e1aa4f5097f3c6e66fafa76d75db20e60d31d40b008cec",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1BRKjYzOvNBxw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/do1kvqzJgGNxSr2-B9uWu-thxT1CoftPFLuPDvwUO-Cn2YMo7p0bBCdoaoTdDg2J3fkZR5IiAAnR7bGDH6hJoQ/SingleFile/periscope-broadcast-1BRKjYzOvNBxw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=db4e46e1ad2f0e57a07f2f0e8740220de788c2182d2a8b92a89a51738a3817ec",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1YqKDejeaDNGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/8fHYlcuXtK54H-qndwYEPac7SP4xvJxshJ39AQRcr73Qs2IciLx7m7RWkCsNnOPeNwUWh4zlB3PSXkILXOA_Gw/SingleFile/periscope-broadcast-1YqKDejeaDNGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=097d35a98dd0e25e358e41ff8f6db68e51d8526962a8664b48e4ec20b137cd70",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1yoKMLzVEwnxQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/9gY_S6FNBMV1EMxM8_cictzCXGmj7FA4JzDSaG4I9Qp1dxiCUjsDrulRD-0hVR99NbQ3E4jz3E5FPFluIqVgZg%3D%3D/SingleFile/periscope-broadcast-1yoKMLzVEwnxQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=69b1b23ded2dcc7fba3dc747f316187c0fe06c0e5e228d752a5fc73947acd3bb",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1OyKABRBweWGb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/pCpgE1O9oNffOVDCcQOhGrDXR025DmS1qYnQjS9IIogP2hg6byUIKNAU3utyavkIKyHRh8LxM6jlllf-C2PgIA/SingleFile/periscope-broadcast-1OyKABRBweWGb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212021Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=dbefff0caa44243daf5f8f9da5ff288c164415f8bc9fd4c6445f17745bae13df",
+    "expiration_epoch_seconds": 1657488021,
+    "updated_at_epoch_seconds": 1656883221
+  },
+  {
+    "broadcast_id": "1ZkJzAqnPdLGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/0H2x1tBjcavD-neUbVSuqPGqRPtC4sZC36-g0TW1uQz5AkHF5TBSETxKWFgV8lHZXXFziKsieNejcSkgXoCjHg/SingleFile/periscope-broadcast-1ZkJzAqnPdLGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=52cfe8093c47d5451667ddcbf0470a42fb19aef1002daa13ecbc1e395af19269",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1ZkJzeVkkDZGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/bXGwSsstg_zx3zKLpImikmBgGFdMLNSAhdZs6r1P-Sd--jGmfzJoSKzGPzNITtpLAJ0Q2hp08-rMkt2OH5iC0A/SingleFile/periscope-broadcast-1ZkJzeVkkDZGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212010Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e48c367d6b0cc77744a16d2eb6b73d9d83622776fb475d28f044e78599b5d79c",
+    "expiration_epoch_seconds": 1657488010,
+    "updated_at_epoch_seconds": 1656883210
+  },
+  {
+    "broadcast_id": "1gqxvXNPRaBGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/-lXWcSM66agGprG9b8Pnk16nVSHv2a6Cge5b5alSdz6WxahvIKFm5JRSZeTrY4Wr8D0lSkC7JatEtrjK81GmBA/SingleFile/periscope-broadcast-1gqxvXNPRaBGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=ca3e6d6fe594c9809c88c4cc02a0174ec8dfbec08a161b45fcff56be4abd12a3",
+    "expiration_epoch_seconds": 1657488004,
+    "updated_at_epoch_seconds": 1656883204
+  },
+  {
+    "broadcast_id": "1MYxNBlEELnxw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/62LPwSFhSypHkiMVH5BqBD75S8nbLHL0CQsWF4TY9IWuTVdY7iWqJ-8RqpWcKvRndVon8K6RuJXfYyXU_8q6YA%3D%3D/SingleFile/periscope-broadcast-1MYxNBlEELnxw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6504fa5dba2440060f1c293cc36556a690b3b1412cb48f66743509b1200f2e70",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1mnxeOavbNWGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/RaGwQv7tXUqzmc9EHNWCaA-J8IEHy6ED9vqzxKSU6yWkoslea6SUrPf8eDyVxc0vkWeOpbyVoCZKg9Za4m0nrQ/SingleFile/periscope-broadcast-1mnxeOavbNWGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3c439706ca1dbf4821cb252e01259302f2fe65b7a8f991f38a18067f67830b4f",
+    "expiration_epoch_seconds": 1657488004,
+    "updated_at_epoch_seconds": 1656883204
+  },
+  {
+    "broadcast_id": "1LyxByyNypWJN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/I9hiARtlDBf6GAkv1kVzsZXCamu9fnBjqAb5okhBlb3t5vglVeHlTlVDGVaPmCkThjWmyb_BbCS_hunICXqu2g/SingleFile/periscope-broadcast-1LyxByyNypWJN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=634178443756658dd48654d9e793d37e5f75d0082ce879b33f292b75e4f0e2e5",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1zqKVOmrWgVGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/iKjXearxdUmWJjsSW2wOANvd3w7xeeof8hhVv8DjKuTMe8f8PTurUdJVvOxIA2yZ3WmconAFMt9a8nzcEabb7Q/SingleFile/periscope-broadcast-1zqKVOmrWgVGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=30281166d29117943d68359f6a2c2eb498a07aee57ef5e7787eb1cec7d0506b9",
+    "expiration_epoch_seconds": 1657488014,
+    "updated_at_epoch_seconds": 1656883214
+  },
+  {
+    "broadcast_id": "1OdJrRdNmAOJX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/N1_ZbXIdMPjK5Xcay8iTkHlBKdD1nOxEk2t6FchZSCd_f95yHEkFN4HvPGsW0xDGenwSElGljiPPiCmnRSfeiw/SingleFile/periscope-broadcast-1OdJrRdNmAOJX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212327Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bcd0305c378993ac454d416f8112d4b7c11d5b992a23d60e6608fdf9e11af120",
+    "expiration_epoch_seconds": 1657488207,
+    "updated_at_epoch_seconds": 1656883407
+  },
+  {
+    "broadcast_id": "1OdKrygYYvVxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/MjTevU1wKIPse0Rsx-wCbwjpl9ZGRlRZcAMBSXnyr3-Pe68uOvDGyVOH1lm_w3gAMMJ0uvn1ULkpCIye7O0P2A/SingleFile/periscope-broadcast-1OdKrygYYvVxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=53ca350e153aa2fc9dbdb14c8b0b4018c1aa16f9b220c9e362ab3a58c70545ab",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1lPKqYWozVnKb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/qUEFOcAY5lbFBjs2NuJ4FjJQ3vKm04ZZ7RG2LU42OhCnukJlPaFi49sRn8GtYj8LNsRKSVPfeEwqq8Td0TLSgQ%3D%3D/SingleFile/periscope-broadcast-1lPKqYWozVnKb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b2c5e9b7705440a8d9f8abb60b0a5c34d344ed21777138d6012b2af90b6fd81f",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1YpJkzEyLRrGj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/0m4t2U-Os1Vg0Jkxx0e3NjC0pK_nuw65gVLyZAIplp2cna5rz6Gzaw0Bc0FAIwwDn0iwqZXkpZMtm6XczV-nPA/SingleFile/periscope-broadcast-1YpJkzEyLRrGj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=82ca62b138442ac67013bf11c260ce0ff7600021d0e070bc26107570b9e873a3",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1LyxBaQMPzLJN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/dezQefAEmWRTmgCHNw03K7hNY8wkSr8L-En9SfQX6vTDdh7CQD3WT2xvxNRqMva0jPNbMylBHcCXzJ6Pvv_8WA/SingleFile/periscope-broadcast-1LyxBaQMPzLJN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=d2b330d72b0b8d79abe2976cf921d73b497a821f6ac938382c5ed7cc2381d513",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1ZkKzvPzvrRKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/s97YVSoOeymG8TYms-895bjAg-2A8JYOQcdzdcoaoMDQ4KEGmb1eq5fUQejMU_OD8CCJ94E0Kub1NNOGuzK9bw%3D%3D/SingleFile/periscope-broadcast-1ZkKzvPzvrRKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=51a6fd629964e4d7d62c028c1246eb6bf7e1528e8ce65bdf90e865b33d52a097",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1kvJpoWXakoGE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Z5XYKn-JUGVnLuU8RHA_ul3Vqdzw-n5-FKDv6lkgZIpPgZDZd9ETKZxvQyL6MVBS5nEg3aPHMHsMTT_wxR5Hfw/SingleFile/periscope-broadcast-1kvJpoWXakoGE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212033Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bf90d24c61ee0596e4d7b025629257781dabd0a38fc1afdcea4b5b7ba8e532d5",
+    "expiration_epoch_seconds": 1657488033,
+    "updated_at_epoch_seconds": 1656883233
+  },
+  {
+    "broadcast_id": "1YqGokqYXDQGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/W02NeV_GpGXU7_c7yCSLAHjvQySIZUU1kfz4aj2uxi7WGoVyTA7v8PTZTnvAHpuXzNUFTA4VZeYAX5f0JrIVhQ/SingleFile/periscope-broadcast-1YqGokqYXDQGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=50c9f049c113366cc5d30f3385e237ea11f1ae5878acb6ac7f71514f21b5b34e",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1RDGloMvdaVKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/UkrAKyTW_PSlGIRx8_rYwfSZ-_L2nOT-l7lwp29iCeiJ-xY7fwJwJaVCKXdfeE76iMdbXflAsX1xoBttQlQ4Lg%3D%3D/SingleFile/periscope-broadcast-1RDGloMvdaVKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=93352349079971d6fe99ed22b758883e4d9152a3e66d8d34fdaaa13f85eef034",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1gqxvbgwkXaxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/yoobH7qZ1OWxJvBjTEWVehI3LT35cC7jxJNAY2uarXaz2v1Mwnj88Jl6LcQMbZ0GPPiv5I1QMNfNl___rK98HQ/SingleFile/periscope-broadcast-1gqxvbgwkXaxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=afd7f08afd7e9fc564e51ade7d4a119e6ed06b684b02683ee6e0bdac20db46dc",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1ynJOBBPMlyGR",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/uqiDlmxdjzFKdMie_ANbjJcGoHxd611jY2e2ckc_muc4Ya03UKE5flnIXRmZ9TzPgW-9yH333aQmbs816enEQQ/SingleFile/periscope-broadcast-1ynJOBBPMlyGR_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=12e33e4ed457824952dd48f6892b8aed71ae739c1134f7ec8d9f254d2df43e20",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1BRJjjqVWbvJw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Gpy6m2_3X7nXV-xJrUTadpgwFRk0Du21YqvodQj6aXQOCrjfShwPutrSS91wDtG_tTIjdnvX0t-1IyDbB4cPzg%3D%3D/SingleFile/periscope-broadcast-1BRJjjqVWbvJw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1859ec88dd18dd1a8b9416ea0544a455095718a6972169ec15b82f8fdfa9341d",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1yNGaOpABBWxj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/A7uVbelSmaXGOAjroC6VhjEcx2cQegCnsiSvj-cuZmyfzJPiYv3-99T_b0khg8B5P9nl-2HLPhX1wdlakxHXSA/SingleFile/periscope-broadcast-1yNGaOpABBWxj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=74c55c3e4c7ae4486f3bec8c2bfa37c51f12769617d75c5b7dd0012b8353b4ec",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1RDxloevzdqJL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/N-ug_wciRXFLMGYGfc969kJZKeUBGCIEs4r6ztyy7xjLovGMZa-cm4zFd1hwDVUJHAq3hqAn3Hm8dCUR7t-8uQ%3D%3D/SingleFile/periscope-broadcast-1RDxloevzdqJL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=88e5964c30dc01aef85e02536cc500f6b1e2752e19aaad39e10cfe373e462437",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1ypKdvRlyMLJW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/LZpJ6wlIjxlaiv90zeLQ9IDwpYo6hDBS5PLr76f_N9DYOti2MkL7TOfBNHUw2URDSfjUeFnnPUAT3K2LLBmtHw/SingleFile/periscope-broadcast-1ypKdvRlyMLJW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b70e789b1eab4c2f97d96b025ef01a74cb37d23cf75c8ce62a57ef202b6c244b",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1yNxaRELVbVKj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/r37apwSXHpkiGWtn7_BA5E-omrcmqdbl2YQVK2y-H5Kir6kUCOZ4bIiGC2aNCCrVB6FgUd_tEM8ZIYE_IOagpA%3D%3D/SingleFile/periscope-broadcast-1yNxaRELVbVKj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=9abb0199a07fdbe2981b1723e78f1309b92b81dd9e96e602b4c0e84a59612870",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1PlJQyAdlQNJE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/_kz8MukJ-KPL1AUzhKp3QZQW3tTCcgKRrblgwkPGx4y7KA3T_uT_DSX0gSWVjwfvDItF--_NvSvGtqJRDrYi-A/SingleFile/periscope-broadcast-1PlJQyAdlQNJE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212011Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=556e0a399be9c6e7585d3dc0da9cf1292157b4c1da82a61f3d2556d5d45f8c82",
+    "expiration_epoch_seconds": 1657488011,
+    "updated_at_epoch_seconds": 1656883211
+  },
+  {
+    "broadcast_id": "1mrGmvqnerVJy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/0CHMLMf2NgxGdj-34FtdInZJ19z4FQf6SJxYyYzvFLDUs85wCtzu3xbuHGNg3MbWdmvk76fcyu8TiRWZg2i8_g/SingleFile/periscope-broadcast-1mrGmvqnerVJy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=43968349e7593e1395f17b7511df72126ade7db7887808b9e5ed81ba8d952874",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1nAKEZmYpQOGL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/uZeJahO6CaanhtYxvRUipgDnJpJ96_vGBec_MoSIascTBnFdyEdRBKxQ3OA-zmQGY47G8wroai8Npop8Irc0UQ/SingleFile/periscope-broadcast-1nAKEZmYpQOGL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212008Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b6aa6725777e9a7a711a603d41dc13e443ddf31335837fa6fb32261b79d16e64",
+    "expiration_epoch_seconds": 1657488008,
+    "updated_at_epoch_seconds": 1656883208
+  },
+  {
+    "broadcast_id": "1OwxWOBXLzRxQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/DG8ndjtTUCa9hn9D8zKKhFCk4RObEzjPJMEQjUOf2dMSK1ueYwzPdkLsN9LAziN-JigD11xKeXFuW1X0K6o5Rg/SingleFile/periscope-broadcast-1OwxWOBXLzRxQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=06b116ea07a3cf66d71bbcd4b143c34efa4ba56a3c8d61bb08239c99d75f7b2f",
+    "expiration_epoch_seconds": 1657488009,
+    "updated_at_epoch_seconds": 1656883209
+  },
+  {
+    "broadcast_id": "1vAxREbOaMyJl",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/v8lASaU1JsiEdIvJdJQBMrt4Mwl9koXM3mKWTvaCTdmykKqTdWJqatNgnxJyqIAf13o2CEcPWYtMyCmyXHKETg/SingleFile/periscope-broadcast-1vAxREbOaMyJl_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8d13570f894d216926a523b41b87785e0a4ef33c80f248b66519c94bf4ba9fd0",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1LyxBlQlNvyGN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/F9s77PR84GmqOI3SYddVTSeqvDFgkhmyZUh5e7tbDi9bvaHotpkDM2Se_YFAE1kl0qw2btsnlB2LC9lDhsAj-g%3D%3D/SingleFile/periscope-broadcast-1LyxBlQlNvyGN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=589d5201446e5587e2a8fefd2b1d95770163a8ebf7aec43e669d9b7c4d818619",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1dRKZVMdqOMKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/xCf0-HYoQ2SfOp7nuamp5ACQ-9hV7UJ0PgoUoo-vIKam-Jgr-z5SHgEY7fZu2o8TtnC9D6gZJOOOtQC6bnY3Ww%3D%3D/SingleFile/periscope-broadcast-1dRKZVMdqOMKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5111e16e4ea6657e1d076bc7b576ab81d80a1f02aac3eee111720eb93896727d",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1YqGoXnYqzvJv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/7sO9Mz_NoUkJ4RjEzM4TREKxM_r-LUtLBkvNDb5OFY7t4sstW8i64a5_Qze310zKbcqHnDUNCUKrYci34SPHrg%3D%3D/SingleFile/periscope-broadcast-1YqGoXnYqzvJv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1fc4f0812b6a519f3058993aac8091c750b6e4300cf2343f075bbc2856f31e24",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1lDxLMpnVgYKm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/tAw3Bzf1gzLODZWrv6ifxLq59ARZ_EDWSAgXhtDT_bzxrWaM9nJhob0QJioqaOJ0rRGSFbs2qW7ARWM-xAXGwA/SingleFile/periscope-broadcast-1lDxLMpnVgYKm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212035Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=935668c2f2f6afdd0fbdfdd7f9046a4e1e09cd61b9d6fa4eee171350d044d358",
+    "expiration_epoch_seconds": 1657488035,
+    "updated_at_epoch_seconds": 1656883235
+  },
+  {
+    "broadcast_id": "1PlJQApeXnBJE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/kmN3ZNHfslLYDTUlS--lpfjSp7Wc-N3XSC_EZPO5Je5UYvcb8W4jOgLIR077b4CQ8sAlafmM6bpld6E8zIockQ/SingleFile/periscope-broadcast-1PlJQApeXnBJE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212010Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=dc612a8648cf60ed201d950006a2615a99ebe4abf591dc20f32988e7aca8d072",
+    "expiration_epoch_seconds": 1657488010,
+    "updated_at_epoch_seconds": 1656883210
+  },
+  {
+    "broadcast_id": "1lDxLMMvjyMKm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/I0w8n-aIU17IiCi3pP4YD3f4hPDJVPXum3g_TS2rrVHZE0l1Z5BMZb02c5JFD-E-SXiIJYuVTh7-xSxWSYTUdg/SingleFile/periscope-broadcast-1lDxLMMvjyMKm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=15862d0f6bdca597c8d86fc16cf3328e52982f31be6124565031f2daa0a8b655",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1eaKbnpddzYKX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/nBBVJKInpWU7a08yF1KnuI4Q_p5MtfjN-Nw_QN1gNzHsYwvX5VbQnniS0F1PkATAJ0AVnxGEjAcqSoYRGo032Q/SingleFile/periscope-broadcast-1eaKbnpddzYKX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5a848eeaf5e583579e188fdf58ad00b7e48e3c4181a540fc20f12950d841078e",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1dRKZrgvPXVKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/BnQlN1WH7UvlmKeFvWGYphsFsS3ogySBXWXXcLTBY3392iUaQmQcUd_3bDJ101kU5mJmN7JNt-MINlv5eLW0Mg%3D%3D/SingleFile/periscope-broadcast-1dRKZrgvPXVKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5774920c00115703fd28f6cbbebef9c3198bfa7e3c16cf2552710273abdf4b1a",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1OwxWpDryweKQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/26DuppRRF5WWBUj_lzpZVniX2Q1am9DcTItqFZfAJohUx-a2-4WHdbpsHkZN1tN79I1xAdx4J5v8BJl-q8b-TQ%3D%3D/SingleFile/periscope-broadcast-1OwxWpDryweKQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=fa4c9617e3a92c3775b2cbb862fbfa4f8684b63ca428ef95d7e471ea277eceab",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1RDGlNMVBnrxL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/5WAp_hDr3aA8M-ufgqcil8vfjuuango87Z4CACK3UsEPK7Q4mDKOeIFefb4dkaviY2xm2uRyr2QKZMiUmWuMXA/SingleFile/periscope-broadcast-1RDGlNMVBnrxL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212011Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e514a4255ed685c6d1dbe1c48ccf21fcf6b1b3c05b8ef31a79c62a464d028de0",
+    "expiration_epoch_seconds": 1657488011,
+    "updated_at_epoch_seconds": 1656883211
+  },
+  {
+    "broadcast_id": "1zqJVpRWdLmKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/J22Cx2zs2JpABRvFOEQY1Qjt4shXCYamAZumWVA_cCBI5Ij4psLtLeu1fvXWOAyr1PF84bH2lXiXyOiXO_xBIw%3D%3D/SingleFile/periscope-broadcast-1zqJVpRWdLmKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=75656141de9e2e72b2387e4030a2ac2548d88e8309e3b8d655197c7db63405d5",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1lPJqYVWOkwJb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/eRwoJ3xhLJT2WV4exAXtv_aBwj_26TD2_55ormJ3Xng6YNtJ37xqV9us7N8z8KK4WbYKPmyXh5wnTs_rGR4DzA/SingleFile/periscope-broadcast-1lPJqYVWOkwJb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8188aa9d457d743378a69e8b356a0de9e4fb2f8793e59f12f9984e6290649ac6",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1MYxNNodMkvxw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/tCzV4qVOzdYmWXRUKu9JB9VsV18GtJ6cWAkMZbwCXk1SJKEJVZq5nj-gdNZaUnpkh0UU0mURz1opYakLisdv9g%3D%3D/SingleFile/periscope-broadcast-1MYxNNodMkvxw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=96f4ab7385ef9dc8521800fa8fe9bf8f9f94b469ae0d0e7e27ac753cf1c80dc8",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1zqJVkqEjWAxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/QuGzYl2MrS_DTsW1tS5JJmBQkKvq-OkrAeRr6OV80dLfWA3HKX2XLsQuWOqGiq2zp2zOAxbEwrD3WRvpncpETw%3D%3D/SingleFile/periscope-broadcast-1zqJVkqEjWAxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=56f86e9df834a6a02aa1742a518835694f98d969ae14035c02ec6506aca5c19f",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1mnxerjjjQaKX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/6kVTV8U_MRnovsWAGo543aJGNA_yYhlACK_nl_v7Wau2GW-_4LiUUNtRCFI9AqizENiXsCvXQc2rzxhcE96RKw/SingleFile/periscope-broadcast-1mnxerjjjQaKX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=65e25b2d7fc7458bad7fde8465530358df655f22430b251d0655d6981d2fa997",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1lPKqqbqojEKb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/qTaV9KS2ZReYbNsutkzHuZQn94hQ76MpuY0UMHG_oJGEUaj27_9SMwb5xfmZu3zkRB7ymHPS9g4LwhjUWv1jWg%3D%3D/SingleFile/periscope-broadcast-1lPKqqbqojEKb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=d44003748c343bd5a808af92696069c9949a8e602f7263f7551d43dc5e5626d5",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1LyxByXywgyJN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/QjgHAdXXb0UT-OtsYsY2OjtYn2WqzUTWIAUVsIGZB9E8Vv9iMqCw9q9Dqtf_2FR4BsFfvbM_ZDX-h-na_onIOQ/SingleFile/periscope-broadcast-1LyxByXywgyJN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3f8e9778863369b568cd9ec3d4a9e3f19f557b006e70177f60020a1f3e50617e",
+    "expiration_epoch_seconds": 1657488009,
+    "updated_at_epoch_seconds": 1656883209
+  },
+  {
+    "broadcast_id": "1YqKDQelaRaGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/fp384iSZM-L9M5RrshzXED0086ZojlEuvAVgOFvNkyrzH_EfhUszu7ZdNA9o8w_4ZEzOQIYfG3WBWKcWONwa4A/SingleFile/periscope-broadcast-1YqKDQelaRaGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cc054ef5cb3dab11b7478da7057d219014fb7958686a556f1628a05b32c691a4",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1PlKQjZoQVdGE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/oscLk5tJ37u1jx4-mqhCttLlnsuqUUCMENDY2i9cgRiOLZboAq9UugFICdowaE1up9h3d6c3YqEWvOEejFd4Hg%3D%3D/SingleFile/periscope-broadcast-1PlKQjZoQVdGE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2d6d45df8251967cc1eed7aaa1cecf0b70de2efa864244694ac472f7d64b76d9",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1LyxByNeykjJN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/QdJHLFDP2tnqshOjA2xgpvT6etSJaYShCD3olQTs6teT3o652ua_rUz8ENtIeFppZrovyIs9OA9vh0KEnZNcKg/SingleFile/periscope-broadcast-1LyxByNeykjJN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1cbc7bf5df7104dfe81966cffe0f480351f0c91e3c3aa8f740d6fc702c196a35",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1vOxwqpOanqGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/e_2g0STsL5cv9xrN4WIQO6NmuUIDj8lxxQd62KepqTZuutG3pz1l7ONXbccstsOdAYZ7wSGJenfU83k1ltVCtw/SingleFile/periscope-broadcast-1vOxwqpOanqGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=d75b641390dde004d39a6293bdb15b72b6ad0758901412d59fab25975fcbfd93",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1ZkKzkONOZRGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/CGn4Vgxn5ZxR3niPDbfh6zUos4lQLo_WKd_5B5oB2Tmjhxqv7d2vw5QepFh1eHKzPzwGrsBKJIriRFP8WEoP1Q/SingleFile/periscope-broadcast-1ZkKzkONOZRGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212017Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3516759d71c59e1f9bb8007515c0c09f02d2aee9dc7c76e0db04d3de72e32253",
+    "expiration_epoch_seconds": 1657488017,
+    "updated_at_epoch_seconds": 1656883217
+  },
+  {
+    "broadcast_id": "1DXxyLBpjyVJM",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ltjbm3OxXtnjY6clzUyVBLW7bLHdovC4-5FevT0SFr6klAzcjRXMJ9-bjY7MfnGBKpAX9_UbHovu0oI_zvXV4Q%3D%3D/SingleFile/periscope-broadcast-1DXxyLBpjyVJM_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3dbaad327c820d20c94901b3e93407273099ad97d17774acd3b686ba398807d1",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1dRKZknvZzvGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/OcZVtHcOyoc1WK2P6aMiIWWQeIyPrqayRvKp-7AYuUFSZqiO471wSFjxOXtinoQw1aDdBHc_JA3yhHSv-eMglQ%3D%3D/SingleFile/periscope-broadcast-1dRKZknvZzvGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8e911ed837af6bf0220bfdfb3eb057dfa34da2bcdbe1c71f104d4a2fd90f16d7",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1YpJkeXDlEAKj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/RfEjqqku6ruU8yisPYRYF2sacs2bnBszU5ZlOke0v3EyBHYW0N0gtwHLEqhgqsq0VnT_fQ6Y-tVvhNwfjs_hQw%3D%3D/SingleFile/periscope-broadcast-1YpJkeXDlEAKj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8e3e27d5c01dd04623c5b9ab2ad8cc7f50356a37cd22fd33bc98e6c469a70a86",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1MYxNBjWPbZxw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Dwb3jHD1eYJiAk4JoJjffxInFSRvyHxO4nxqpFT93IKLg8c3xj_W0HzVqMNhchq8vjU3IrwDVNZHqIqRJvHoeg%3D%3D/SingleFile/periscope-broadcast-1MYxNBjWPbZxw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f76dcc73d0f0f2550ea1d8dc92766b84c73604c40e403c0178d5f03284d86239",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1lDxLpaXRdLxm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/g1pqIj1nvygX2NQB0bBgs1QV7YaozeOWCE9wcmvNpD_cBHrb-PPRNXDl7aAwZvZ7JKzsqSYQTmemtLYdh-3m9w/SingleFile/periscope-broadcast-1lDxLpaXRdLxm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212007Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1bdb66efad8eeba1d4438f2f128b6990143c1c54acd21528549d4834c8734695",
+    "expiration_epoch_seconds": 1657488007,
+    "updated_at_epoch_seconds": 1656883207
+  },
+  {
+    "broadcast_id": "1kvJpjpRkALKE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/_NjKQumpFPPkATBhX1KOgESiuc8Dyqa8Gl4RMRIvsbGojm6aCT7kHPwcHDWwhEy3Gx17A8xSqRfFtFFD1qUmWw/SingleFile/periscope-broadcast-1kvJpjpRkALKE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cf2231153328c7e9b2d954659b8cdee2ec603b5068c0b50cee14960c53ace3fe",
+    "expiration_epoch_seconds": 1657488004,
+    "updated_at_epoch_seconds": 1656883204
+  },
+  {
+    "broadcast_id": "1BdxYAwjZBYxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/XccUFGKOEdnXDxp46Y02_6KqlCxXz_36l73GTd3h-AxrwXahAQvNlb-YKCarWhYP4dZ5kE3yCrHOn2nbiY_OXQ/SingleFile/periscope-broadcast-1BdxYAwjZBYxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1ed6fcd9c4edd0bcf20d2cd5a033d849ac97570d11086a2e4ddb721621ab945c",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1nAKEyEVEjoKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/HBEHZ_IudRsh3rFphUkCPYlzey8zmB6HVwdTmhxQOZcbhMuSuto-2qOwJim92J4Lyf4Ii7JE8-YP9PEFyi5zYw/SingleFile/periscope-broadcast-1nAKEyEVEjoKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=db6cd219bd5eebbe52aa531b11b3612fba585decab2e772257b937e896098e79",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1LyxBBLnkojxN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/SSpYkpflfCoU1chwLP6SsE2Vj8wLpkU6WJ0GHAz0k1KfXifRKqjsZl6q_s2_1Xnq-VP7NT2ilG_NPTe_BVSehA/SingleFile/periscope-broadcast-1LyxBBLnkojxN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212007Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=055ab314e20ab85d7f81bd1205bba5ee61654cae28796f40f8861c4bc410b897",
+    "expiration_epoch_seconds": 1657488007,
+    "updated_at_epoch_seconds": 1656883207
+  },
+  {
+    "broadcast_id": "1OwxWbQbermJQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/CXppeE89WS3GjOaow01hRd4BcUDvuvUF7DCXKloJlK2I4v5_KJnAuUsKWpJM1ke1Ay8FgJDaPBuwQ4Fkjv27_w%3D%3D/SingleFile/periscope-broadcast-1OwxWbQbermJQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6a1262b13b5c0996af184b978acc9ed017dcca39f0ebb02ce1cb275654b9f5c5",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1lDxLrgawWLGm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/CkEG6XMqR8Bi5aazfHqJDmNfo1cZRXDdZVrFIqlZFNvUmWNRbUPrm1DJSvybMBXtOkDBxOzxo2ZS1SyWm1GF5w/SingleFile/periscope-broadcast-1lDxLrgawWLGm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=577c8b489116441471fcc474efe581fd95d9e1852bfc6fb4776f5c763c133e01",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1MYxNOBOnrOKw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/P1u1HFxnJiOMqi92wd4TfiHO2ks8PFfRjsmupzHnoaGNybUSRhO7PwlBFUPXnDYe0N1ahAbM-qX5y1gIBoJLKA%3D%3D/SingleFile/periscope-broadcast-1MYxNOBOnrOKw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=78c1548e5cf8d763a53fbd7f78da31782af5ad0f3f1d91eb47c1354f0df9ebeb",
+    "expiration_epoch_seconds": 1657487993,
+    "updated_at_epoch_seconds": 1656883193
+  },
+  {
+    "broadcast_id": "1OyJAljkjeMGb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/yTV-93otjiEvnt8Fwf86XjgGIRxojDQNIU9OeNr4Zl9wQVyu7fvcxY4xfSWoZfpu-PtQ6StALZycHem7VHC0DA%3D%3D/SingleFile/periscope-broadcast-1OyJAljkjeMGb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cbcc69335b76f642ae89b93348cbfbc15982f78a6ca3d03b887478b477a4b236",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1YqGorOLYXZKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/KJr7fcBH7lCFr5-tIukX_6molCJxFznqELt2SyDGvB9YgAGwQRMBV8Cg_89x1TXjFL3pfPUBJXE-B1XsCeXzbg/SingleFile/periscope-broadcast-1YqGorOLYXZKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bd5f40127597fdbeb8a395b7932ee903bba673f9f563566d04dc83983fde242b",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1rmxPrmbnpnGN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/MvGuqWcvpMttu_DZPgiRZ0e8yX1p33nrIPR_gauVcDAAzMDCjtMYl7HfnZm-eo9JZ6lxbWd3BcGeDq1V9EbAzw/SingleFile/periscope-broadcast-1rmxPrmbnpnGN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cf328542dfb285a175638e0319e11b2c30a304a4361b875a321f5400e791a89a",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1YqGoZvAgaEKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Vnjymj0dPyOnLoY1Li7CpCpOjmwZZYBUg7_sVBb1PO70ZJyBk91bjjhJkEZUNCmBc-8a_nbDRt0V6RNJH6_0oQ%3D%3D/SingleFile/periscope-broadcast-1YqGoZvAgaEKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=21cd4fa379906ffabb838fdf8a398c609a2d2f860fbd32d9364241e53e6279a8",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1YqKDBjzjaDJV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/H7D1sRMqBuyk_uguASNvHkg4fU8k6OLHXjkzI1ikfPvHIcxrSyvZHfVk3odEjSGHeS-iK_bFs4icUyKWMcCvyQ/SingleFile/periscope-broadcast-1YqKDBjzjaDJV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=9360019e49899cc46f30d526085d56d0b9717e2b11b59de2beca0296cba09d74",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1YqxojXXgmbJv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/NgBFNcSKkG7GyvQ0HfX5cYBPaaOsZlzC34vInEfxF59UykPQCN4Wt7055KrORfbSshzWKVZ9TxpvTalnQR-eyg/SingleFile/periscope-broadcast-1YqxojXXgmbJv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b68db9c5942f5df407cba09431b3fef1fea815cab0c87968cf0915cc84f9083a",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1yoJMYkLvXeJQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/J9bKQvWzcPnY7XAaVKlhXZPwjObU-sKcO4qi2DzDNXXtLIRdeiMpcqI0bqwkYPT7oFZ6qA72Kq_2LutqhO5aKQ%3D%3D/SingleFile/periscope-broadcast-1yoJMYkLvXeJQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=25f20c6498371e99ba072e2641c7be47978356e26e012cb5708fcce21f2df4e2",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1jMJglBPlwlxL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/dD3hgXQU0c7YaInZgfax0LiVTGyAj1KfED1JTrvSnoiEXxxwU_Xo_k5D1c7gFV-MOtJsbIeo_OeVaPMG8FK60A%3D%3D/SingleFile/periscope-broadcast-1jMJglBPlwlxL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f285c6ce511ec97f6c5dbe968c4b587dd297a93b5d639aaea604571a4582dcd6",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1MnxnEBYwgdJO",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/AuNDwGqUFKNtPAQXlrmhWI1Ai66HGJTzGs0dOJj3cEUl9OON56L8ci9KRstuGCsUSIUIb-jBBqrPjM2SG5m_Zw/SingleFile/periscope-broadcast-1MnxnEBYwgdJO_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=82d21435dc87022b40a7e745a7971a984ef4cf6692c73a9f72ca158380ab66bf",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1djxXAjewOLKZ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/BLhlTvGZa6vLgdWZozN3-Ao-7MR9YH7H4TwYTeYRbQhDwAk_jLWgLDHz85UnXRS5k2s9B3Ew1ygPRZzdKGZmkA/SingleFile/periscope-broadcast-1djxXAjewOLKZ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=d4c5868a2c4c7fa3292d0078c480eb43640a9b7515016e382935e6b0e08c1803",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1OwxWkjrnykxQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/iuIb62eKm6BbVcP7dOUIoKP4aUF6GHqhgqm4OWeyby18iVxFNH2PftBdVczlHqpamgrRbenlLnxHIWwNveG_Gw/SingleFile/periscope-broadcast-1OwxWkjrnykxQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b1de54fe5ac1c11f193a157f9fec424c5550f69d77ab3f87fd08827cbf3c5342",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1eaKbRALrkaKX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/n8l2tpenOPtL3k80D4cu7A3y8J3QreqkMOLdp6kmPz0TUSSORc0M92G-rA_xOF5yt6JJRU9S-0MLpGvOrEbKgQ/SingleFile/periscope-broadcast-1eaKbRALrkaKX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=b2820e18cd145cc21dae2c8bc991715e61066e14155e3d985622e88d524f4e5d",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1mnxekDnpYZGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/_174i0VP6QNYxWWucJcqK44Yj7imQijRzWBFytuJ8nIej-URZ7KAKSuehQr2gmwsxagVO4AxVBdAl4QRKjuEjA%3D%3D/SingleFile/periscope-broadcast-1mnxekDnpYZGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=326682167d5349d66ef55252e6ff689f7330b300c88cb17614ec1782f3aba2dd",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1yoJMaPvlQXJQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/VMjBoKnvW70fhXlFzm9B27BcYUKqv-GHfbn_AzBVB7GTEzdOMc_kndz_8XwBIn8GNh1GJ4MMcFHdu_niQTo89Q/SingleFile/periscope-broadcast-1yoJMaPvlQXJQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6561c55913127480196d1c759e339b44fc88d2489a7fa0c1098bfbb8f8f618c8",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1OdKrvAqgrkKX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/4FK_nTzPFbReGauG22hUyJqAO2KoghaouQZNV_P6h7athM3zkNYvCuTm6doCs38ywZ2o_xoQ8QEXxWNq8PKF5Q/SingleFile/periscope-broadcast-1OdKrvAqgrkKX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212017Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=33321177925e87785fee35818620d1305b3477cf856e7d5185a67aaf74e1fb74",
+    "expiration_epoch_seconds": 1657488017,
+    "updated_at_epoch_seconds": 1656883217
+  },
+  {
+    "broadcast_id": "1LyGBEOPqPEKN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Thp1-ltUbUIMD7Wj-8EKl3MYSg9zHXBC7xS11Sfw4CpYvwFi-L126ShO3U3SzlZZ2rJ1o0Pl6aHryAiXKyVsnA/SingleFile/periscope-broadcast-1LyGBEOPqPEKN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f5b7223ba47f439a4d64c1bf4616349531751c21a0c22e5d8810be1b39282db4",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1lPKqwPOQNPJb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/OODl2meKq7IG5saOQ1YsN06amMzaRgEIrNVyVVEh6gNKPnRL9vseEcPDccX3Vvxx5RfJ9ZDwuJ9WMGTLlWbEMA/SingleFile/periscope-broadcast-1lPKqwPOQNPJb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=7f7c9b30eb12a95c0d3a23ba2d1a288db0123912985b3aaa58354f4ed7466466",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1yNxavyrZvdKj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/wYgFWWTWy1BW5KFpEV_TavrRAl2Vc7QiW-eg5zJb7A0eHvRCFBxPxZMc8bqmy4uFWQurjJLDpXz3wD7WFnuW8Q/SingleFile/periscope-broadcast-1yNxavyrZvdKj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212003Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f599febe53548a2b36d238f7443b2a68b73dd85fa3103a989b123390f8493dba",
+    "expiration_epoch_seconds": 1657488003,
+    "updated_at_epoch_seconds": 1656883203
+  },
+  {
+    "broadcast_id": "1YqKDwLAEXkxV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/xH-3hkEz6N6IuKnsKE3hRItuyNw4_kntche3kDICKsNYiorIuaImBXEKjA4DaYxEg3BtFbOo0rCMju2UyHsPzA/SingleFile/periscope-broadcast-1YqKDwLAEXkxV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212203Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=eceed0b1f5f9a9cfe2c015fe08bd9f58c0c7f9be62238e591f7bd2c3df6bbe80",
+    "expiration_epoch_seconds": 1657488123,
+    "updated_at_epoch_seconds": 1656883323
+  },
+  {
+    "broadcast_id": "1gqxvOAQgwwKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Bbb9cxxbQ5-r62SwsraiMd8tKAoxRtoTwmj5tZS5NRRUERb6MfBOSDfj98gpay6l7RKXlj3cnskTDXyKlVz_GQ/SingleFile/periscope-broadcast-1gqxvOAQgwwKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e1dedcba2cae9a3b9944378a2e63776e00a432362f44a97bf994a92fd02c6144",
+    "expiration_epoch_seconds": 1657488006,
+    "updated_at_epoch_seconds": 1656883206
+  },
+  {
+    "broadcast_id": "1lDGLXpqkkwGm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/gXavsejHeA2HvVkFKkS-DRIOgBtmr5UuZBD_Ct-hD0oeARbSBa0zJNvYKFvwOCrDNO-qmfLXd2L5nr-nCz5RzA/SingleFile/periscope-broadcast-1lDGLXpqkkwGm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1465c3ee9d2d0b7b6d8cb77d65c637b8de4bb70d6847be94cb2ec3f8d0702f53",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1YpKkzDknONxj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/WKYYdSysYFQr2QVZXK7ZEd9ZBzMThwhEodi6wb7Kokal31TgiZ3ABd6cBQwvRbY41uNJNpNF2MMcsPHxaYYJ7A/SingleFile/periscope-broadcast-1YpKkzDknONxj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5389142c0ae0ee9b94552cd31641a911d584dc638b7eac38c70c78284046f6ed",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1ypKdMlyELoGW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/q6pJcqEuGQZ_WJPsVZNBP8vTTOCZYJHm9KS0tmhM53ugqDEPKuD3DcAnnnmHmh2g0cJ0JCCkvejstnL6ubsM7w%3D%3D/SingleFile/periscope-broadcast-1ypKdMlyELoGW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3c77d977dc20919f37cc0b61a6ccf6b76f057d68581898b9ada711c99d638469",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1vAGRbODRNNGl",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/LedzYuKAVDbj-EIpAd3kh-n4UAvM5CXos3cdssZdkik3sdWnfOeoAoJVdij-zJOZ7rmTDvW4ejBRzH6aPeA6ZA/SingleFile/periscope-broadcast-1vAGRbODRNNGl_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=0144b1cde0f5e945d62bbb300146284f1445b3640961ad5722a236e63b95ed54",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1DXxyRepqoLKM",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/5ea_qGueJLkj4xZO412tzE9IAjuyZk2FbmcbPth-Aii7k69i0jiZS3d2j0w_CVay7dxS2cM7HWtrfnrt_Y7Iww/SingleFile/periscope-broadcast-1DXxyRepqoLKM_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6cd56f06aa95b42a84e6e706ae750ee10cbaa7bdd7ff9ce050c2c3f8f9b06c96",
+    "expiration_epoch_seconds": 1657488126,
+    "updated_at_epoch_seconds": 1656883326
+  },
+  {
+    "broadcast_id": "1lPKqdkOaLlxb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/2Y1egPuqpHsTh6NvDElgMvs-mNFJvaQF7MnvLvFfKADQLM712LxMuYoe-vbF98CozQyRQ3b9AXjlPtK8veBArg/SingleFile/periscope-broadcast-1lPKqdkOaLlxb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=54f3b138512f578954aff51da3bad2717cee7a5207435fa3aa4c4feb49979f84",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1MYGNmmZzRNKw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/H6iW0SDXUIx4RUfgocVZHStVSShDEiaTAYVZsqpj86sI1m0QkDlhcp1PJHIITWW49HnQM-5EkG6wrDExgicOxQ/SingleFile/periscope-broadcast-1MYGNmmZzRNKw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212003Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5532b9f40535def43f67a8b3e5e365a7c87a144031a9da9fbb0c0ff246d5ad28",
+    "expiration_epoch_seconds": 1657488003,
+    "updated_at_epoch_seconds": 1656883203
+  },
+  {
+    "broadcast_id": "1DXxyLoeMBLJM",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/H0IW_cB1MwvNXBMuWtJo6k0DicmwjrLxRlFy-L_HfCQw721U8bqD1Vy8ZO1J9Ww-4ktHMc025AykGwmk9lHMMw%3D%3D/SingleFile/periscope-broadcast-1DXxyLoeMBLJM_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=14789e18ba3ae21731e14443fe09f3f5e24665f5e25b85ec157884c916215431",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1mrxmWLgYogGy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/EYHUu5rCsBC4JgqY1TsVMDzYSh_mM3nPMLBIKh11Zj_7LHqGFyIonks2QXlEcJ9MLC1f_kfemyIW-ycH1yS-xA%3D%3D/SingleFile/periscope-broadcast-1mrxmWLgYogGy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2b8bc5eaa06dcced78c648a74a554662d2d1152cda348967e6ae7ab08584f2f0",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1zqJVpDNdXlKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/iHM0BLaUcTBreqEbm1XSSEZO7yewcJn2E_51_OC8oL6vHVRV8645OGXpEW8T13YWRRV1LwyDYHNUlLZ5lqTtcA%3D%3D/SingleFile/periscope-broadcast-1zqJVpDNdXlKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=fa2aa6282c5b4a8af923779d89b77ee9b8a7e7c0a99f3c64b2e39b7d6012f0f3",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1OyJAlkPpZrGb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/XQBLsuhEKnqFrfZtJJU1VpMMnaBQSfkyINc8ZePEov06bGeuwrwvxx5haV_cvVVRIeinPoHrXK8ajrYrG4pI5A%3D%3D/SingleFile/periscope-broadcast-1OyJAlkPpZrGb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8373dc958cf542160466aab77969f8ee1f8e5051954166461a063bcf9f60f070",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1kvJpEedBlgxE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/vxmOrEACdLPzvZsdAhaPUDrlqF1mYeqbU41GaeA-emaf8TMnGvIaq7ZdMYPJtA0raY_VpuAZPFBr-t99JrEQiw/SingleFile/periscope-broadcast-1kvJpEedBlgxE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1e1dca0dd363587a9b34a2b59edec68bdb3eee0f12813c89a450aa81ed70ceee",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1OdKrvqONwXKX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/DBQ2KaJhwVYRxCccYAIQhUuA1g6ZZTV8MaPFVD6Z0JBGrnH7AXmWc1OZuNvCqB4B221eJxIvcEnTBC3eTpFPJw/SingleFile/periscope-broadcast-1OdKrvqONwXKX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bd393c3e4180f4e1a5f68cbf19df087266a1e656816c047ac76be9ea6688c3a0",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1mrxmzWDRdVKy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/AQpS6_XlIie2k-dyaBbjwjnaJ4o73EIAIgn3L15EL44MprlJx-Jroqry3VJR7LPU_erSUr4wKG4O9OvdtFZp3w%3D%3D/SingleFile/periscope-broadcast-1mrxmzWDRdVKy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6d45a032e759e796adc277ce20105ea50e037826c5c75b5b83fa02c09081b39b",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1YqKDBnRqeQJV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/caX7yqmNcUEAABMAHsG9Gt7P5R2EzXcK19EgrXiPC2nJwPlTp6PMFDwJkotPKV_17UFFQzwFVmT2Ac3L0qMBqg/SingleFile/periscope-broadcast-1YqKDBnRqeQJV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=99d9f1345595fb66c46391085361cade63b3406483358d7102a7962224a768e8",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1mnxeaXyajoxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/PUVVcyEgLI9uX4fDisc4o0B2tWv-F2CiXUFjCUawLFtXip7AIp0nOqNiTNNVMPMtflZs29FwRtTXndhJfdi06w/SingleFile/periscope-broadcast-1mnxeaXyajoxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212003Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=c1f73ff2068c5b2701a4393791788a66e14e6fb37559509b8121e77399b6b55f",
+    "expiration_epoch_seconds": 1657488003,
+    "updated_at_epoch_seconds": 1656883203
+  },
+  {
+    "broadcast_id": "1vOGwqVWaQmxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ll8Oz9sl_HI46Yk36axvZhEvVQyqP9pjVtZl9MT6dsnM7Kc1ID4l-pOMRLWEZXX4WRR-AXXUeUrH9RzvWpEpFw/SingleFile/periscope-broadcast-1vOGwqVWaQmxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3b11ed2b5639b300f99000ed134b61e055d35c7e4391eb79473a531c4bf978e1",
+    "expiration_epoch_seconds": 1657488015,
+    "updated_at_epoch_seconds": 1656883215
+  },
+  {
+    "broadcast_id": "1YqJDQWrABkxV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/68ul60SAQmHQda1WlGjXP5hL5Wlhb5VfTEGainr2t7_tfjKdlFkjYhX_lAsUSFRcoT0xYKYCTptO498LA6ZT7g/SingleFile/periscope-broadcast-1YqJDQWrABkxV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=dfc035451ee03e7085038ea31f9e2ccc856c1df39714872711000f1e2ba77369",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1kvKpeBEmjdGE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/DmcQLv_ULiBjonuFtY-HjoRiJOiqbmCwlEOhGD6hOUh23u27qiF--6_zu8H3eJRVK93L3c0gwSuGWyYcHsd2rg/SingleFile/periscope-broadcast-1kvKpeBEmjdGE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e0101f8b040bb3a54ca2b2d10ea4e249eec5b0e56b15615c053882c32581e28a",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1yoKMjzDWBRGQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/xZUx4hasDeAptLgeo8w3mqHESOMAnyMBsG5A_Bx1dntRhHuZ4E4Alca_g7XBSdfj0QNAhhp3AuA1OXC1x3rxDQ/SingleFile/periscope-broadcast-1yoKMjzDWBRGQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5a0748566a1b5f4982b616dce2d1309caf2b38e24e1bb7c7707cdca97b613e46",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1OyKAdVjNerxb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/4dbfdYQnKbbf-6CWhq273XeVoPGjgZVy-_gwOnRiO57hUcvL2Vi3VzVuooyyKkSAMTJL1PQ10jOyda1AW89Mbg/SingleFile/periscope-broadcast-1OyKAdVjNerxb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=490f5828d319d29f00b564be2784a64bc0e2dd8ae53a37b8589cdc2303d8af06",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1mrxmYXwyAgxy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/WPsQPZfLJH8KRPSdHg97R95lf9UQ4y5PbCHHypACbPPkINCO2MGby4uw9FSvkMFPEvY0I1qM54d-eD0W1IZ5MQ/SingleFile/periscope-broadcast-1mrxmYXwyAgxy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=aa1d882bd49dd2e28aa1fa328be08bb212c08f0d474109a22dee486516b27065",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1YqJDwQAeOLGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/nB5ylFL8mye3sl9rSUEjf5hFs9VgUuR9qvBWyrPTiJ1zKwZ7ZfXH_e0JlPApajb91KzYm4jNqtII8vqZ5ZggaA/SingleFile/periscope-broadcast-1YqJDwQAeOLGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212003Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=a1b2befddaf91ba5ee71a9ea8f9853b02023fad0671353d6cb7d9e5b00cdeea6",
+    "expiration_epoch_seconds": 1657488003,
+    "updated_at_epoch_seconds": 1656883203
+  },
+  {
+    "broadcast_id": "1ypKdEOzerRGW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/3iKjuNBhl_dNiNBurmTJIQaP-E1TOA8BUuFk1F545meJLq1ZJTztNVZlQgO0VNRMeX9DnQ1-Pb5F-Sq922b2yw/SingleFile/periscope-broadcast-1ypKdEOzerRGW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212505Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=24bfabd735f845535ec02cf74facfab668bb0a0013c10720164d72d831667752",
+    "expiration_epoch_seconds": 1657488305,
+    "updated_at_epoch_seconds": 1656883505
+  },
+  {
+    "broadcast_id": "1MnxnaOwbkyJO",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ZREU2_2-US14P8IodDC2drNeDmTcwYB9SpYkCtXfdsKjGa0vsoQQDN00TowIFYqbAKDUCZn9PALM1VdCMByGGw/SingleFile/periscope-broadcast-1MnxnaOwbkyJO_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=c0f5596f3793b5795179f390a7d15f856dc4a31b6fe8aca0ea8af45b166b4f70",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1ypKdOmEzLoxW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/XRWuB4OBEe30LsRRVOXATzuJsSO8Kasg-TNH4b1jCba1XMzVyt6oUMAd_zqL3Bd09H3V5S_EEu2SunY40jjC0A/SingleFile/periscope-broadcast-1ypKdOmEzLoxW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=327b14965a4127aff3ef33006149dd234beee101110bc0f74ed735a0ed8f206d",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1OdKrwalrmOGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/QuvNzEsHzg-gvGjh-z4Y8kUynGHg3nRjd4RSv2b8mNDTwGWlkVAR7vSDgWHTuUfuzN6QGAFHbL0fEyR2Kv_N5w%3D%3D/SingleFile/periscope-broadcast-1OdKrwalrmOGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212005Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f6759883f5c51bfee0e3a10dce00b918ee4b3d525cb0cc0da04ccdd6dd2d832f",
+    "expiration_epoch_seconds": 1657488005,
+    "updated_at_epoch_seconds": 1656883205
+  },
+  {
+    "broadcast_id": "1gqxvBvBjERxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/jRA9EmaLc0TlPt2wiXGdzFDGICgIpk5f4c19hcUs9kIJfLikdmrG-ZASOJQ_SVbTS_FYUli_ttw49iAnnCWP8w%3D%3D/SingleFile/periscope-broadcast-1gqxvBvBjERxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bb8b7e385d227ed781694781f0dd98dc58e5931d0526a48a6ac2514f95beabf4",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1YqKDyrvvwQGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/i4SSC4NCWfqBnWE0C5XgpOK3ULTfQYkttFMocWpJYOXFyksA8gldE_G9ij-Ocdx1Qe-w4CZ079RCy3OHB4Xprw/SingleFile/periscope-broadcast-1YqKDyrvvwQGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212210Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=88d9043531a35c0290f7d9ad40fc9436b2f9202e7e7de170dd2d39f6da6445cc",
+    "expiration_epoch_seconds": 1657488130,
+    "updated_at_epoch_seconds": 1656883330
+  },
+  {
+    "broadcast_id": "1ypJdOjzdORGW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/aTHbLHh88EVfwDc6nQRJUJXa6InzNdI4IND_TezxQBzexxxLY0uZ5xuMaeWClKKMnRXy239jIm5bDKm3VTsjqA/SingleFile/periscope-broadcast-1ypJdOjzdORGW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212016Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=dda16ecf5b8d8e29e8a14b68e19056df40c4b573e5d0070defbc6c8341705455",
+    "expiration_epoch_seconds": 1657488016,
+    "updated_at_epoch_seconds": 1656883216
+  },
+  {
+    "broadcast_id": "1ynJOzwDvjAGR",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/T1LljYMwUcaLGWUR8nAcLvTQSjtbIxPNkd1Qnbsj0oMJ5A1d3mZsVFd-MW-O1-AsH9pVVVk58oKDk6BwKvzC0g%3D%3D/SingleFile/periscope-broadcast-1ynJOzwDvjAGR_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8c33b2d9ccbc02c2ec9761005e4bd00b147fd9e80584c29d1c2e1517d3b493d9",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1nAKEqDgQEVKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/CqjN6PnhDjfbP6pWWMbU4xINSFFXIBTiPky3MHJnnkS9-zCJ_dgrSpCCfEFWDXlnt1U3ppAsa3410FKhHGM2CQ%3D%3D/SingleFile/periscope-broadcast-1nAKEqDgQEVKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cc0411fc79b4155aa9482ca13fbc097cd56a95eed2544cf2f631246883ca1339",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1ZkKzWPWRZeGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/iSL0gHGCeKzIPywnY3-qjF_cDlNsieI8kDo2Q9P6FG4KLslPfNJ5L1VBl9qjSF0UUBZl8BbAfeT_2TxDQIBBxA%3D%3D/SingleFile/periscope-broadcast-1ZkKzWPWRZeGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5a986ded13e7fca27578dacc822bede900f569ae3896c7c20e31cfaae099e1b4",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1ynJOBVYZjvGR",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/gkVnikhWLVWUzdvgayA42LE1y8VN0iUHFxXoXs9_xM0WyfV4fe_B3-mrCzn68kLm4gWgpn5vBuq9kJM4dRt--A/SingleFile/periscope-broadcast-1ynJOBVYZjvGR_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212010Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=239fe7630786caef1f218a2118f02da6064f92672246a7745f56da84445c78d7",
+    "expiration_epoch_seconds": 1657488010,
+    "updated_at_epoch_seconds": 1656883210
+  },
+  {
+    "broadcast_id": "1BRJjRDnDkwJw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/aIETvQnE4uf7vEq5RYxG3-bnk92BfgO9H7zv1lklopgkTCwRoJB9UX7yjREh11GZQD4-c0KX67UGfzNEqacUXQ%3D%3D/SingleFile/periscope-broadcast-1BRJjRDnDkwJw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6feab30c4ee818dee8408e43dfd7865ddeeee0ff1100e06c0eb95cb636d617ca",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1zqKVVADMbdKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ZkQ5mp8n2U0_vaJQzzXDCcbrQ1MX6Q2wkjXgYJqAO-9Z9NlOdfzxDBUUEAuIBS29Id2AkCpUs5LjtVmu2KySUA%3D%3D/SingleFile/periscope-broadcast-1zqKVVADMbdKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=7bb1343205d162ebd3177eef760fbc24622270b95af4ead771571ebe25544d25",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1gqxvApRNvAJB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/X0SYui_dkovmIFx7z9UVY2vTVgDqRZWc8-W4Yx4ACE3ZzlSGGZO1U-WUy8SwoQCk_4rjNnYao0OpnLvMKRd9Ew%3D%3D/SingleFile/periscope-broadcast-1gqxvApRNvAJB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=8789fd8c95766c1e64644ced0e0d9162a282c3f3ef8f3c744e23b1b300b77722",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1MYxNBXLAynxw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/i_gGJxtWgFC5kBYWaby0chqXuLgxEOO12DIONWya8R98dPaDLkY258w-WInV-9Z43hCd27vq-pC7W2m1SiPwGA%3D%3D/SingleFile/periscope-broadcast-1MYxNBXLAynxw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=61bc917c7ef92c14a7fb2c60b0d40acfd40d7b60fb2b335d054aea8a04c27ac1",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1ynJOwbkQlVJR",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/4foL7U2xg0k6ml2bMCy2clxj2FU_7m7K1x_94Rru9heb6yaXW0CxNWbNXfeCofrH4A09tSCocn5lU-f1sovj9A/SingleFile/periscope-broadcast-1ynJOwbkQlVJR_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=6952585411d45348cf4ced832c969e98cc83ae1ed899426e26383cd30b34df48",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1yNGaRldyRQJj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/A6P7Up83U2n-EZuexmfGwatcjQjTgyB4Nl4_AN1MhaY_K8keJsvQzRllE58Oy5slKLjxUlrbJDlQvQdbAlvG9A%3D%3D/SingleFile/periscope-broadcast-1yNGaRldyRQJj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=9f6053bf1a94219daf3532affc46ce52a1b6d6870869c1377e6634af4283837d",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1BdGYOpzAWXxX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/4u6C70HfusUOZEJ13EqqDMq_gFoBFmU0g21Tc95T_ZJSLRVGX55jmkrTUoFpbvL9hZ1xHsdMRgR1LgQipEP8Qw/SingleFile/periscope-broadcast-1BdGYOpzAWXxX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212041Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5d04a51e4f220ff81dad9dde8c0c0cf977a1b6db3350171d6a3321407fea2fea",
+    "expiration_epoch_seconds": 1657488041,
+    "updated_at_epoch_seconds": 1656883241
+  },
+  {
+    "broadcast_id": "1ZkJzlOPvZNKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ALOIeNjxHxB1o8NA6kdrXyyiD_7Ct3SWN2luWL-w-sobxRT4EewC0RQ2_KRlpNmc9sRe6_6C51ATf-WHMtA5eA%3D%3D/SingleFile/periscope-broadcast-1ZkJzlOPvZNKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=ac2c5564b8fcbf3ae7fde3e81168496055ef2db62afe1541a1c7f1401d8612fc",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1DXxyoamokZGM",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/e47HrJM_Fdfj6GqbdjapvWu1GWve60zmvnYIgwN4WwvVauwmggTAXa6ULGiAvsX4C_QBJft_MOUmv3yrtreMSw/SingleFile/periscope-broadcast-1DXxyoamokZGM_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=bd46dcf423f2fd33ce3158abdf863bbc4f96f7caf65cc1f35ab5df0fbbd355d5",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1nAKEyNPOpOKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/0pZsm7lTExfAL3t_zMUfbj-0GdkbUeWXT8pJRcLs1_Z08y0sDpXPbsAShFfkE4eJOmkm-xOpENWgSo2gPxPQSg/SingleFile/periscope-broadcast-1nAKEyNPOpOKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212017Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=78cbd1c9e56b60e26d38981f291cd355024a3225b5a5f77de92c69798a5c8fcc",
+    "expiration_epoch_seconds": 1657488017,
+    "updated_at_epoch_seconds": 1656883217
+  },
+  {
+    "broadcast_id": "1OwGWpdkwLAJQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Ju2Qqv4Kt5Mxqos9EM3CzMr5H-XvnbN0Spo50ff5AicJyXCx5g9LBgc0Nsrm33OFKRsl9FZ3zFPmx4ipHCp20Q%3D%3D/SingleFile/periscope-broadcast-1OwGWpdkwLAJQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=9867e3f7aa8f837406c3bd32afc12759ed8749e8fdda49fe7b10b1421d329d8f",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1lDxLqgenDzKm",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Rg3bRhMYNHp9i4zGBa7IQEDtOyO9kXDxpLoSOXEbWXvHqPW_LoA1qqBNfJRTw265RuE78JWHw_sEHhZArMbKRg%3D%3D/SingleFile/periscope-broadcast-1lDxLqgenDzKm_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f05d03abbf84e49df78316afc37f03a0043dc603e9aab341d072b8230fa4adb1",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1eaJbQjdNlnGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/fhsV8WPvFPJqY55J9fgfFYvR3hXyDB1YS8sdML4_bv9qPj8YLNSjFPJl0fg72o0pOzFyQdKqyUoiri8t3BK1mw/SingleFile/periscope-broadcast-1eaJbQjdNlnGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212003Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=28e07d3667af3a7b21cb55d53823d5f577ebc5a34eeb07269fb0590395f2c8c0",
+    "expiration_epoch_seconds": 1657488003,
+    "updated_at_epoch_seconds": 1656883203
+  },
+  {
+    "broadcast_id": "1kvJpljLkqaJE",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/mQHl2oLPHmDB1rLIBsb3voWu9duiN0trtfw9zMyp4qzUHSuCd1qoRMtbvv_0EWqBZT3AJgbcbXnDmealB__noA%3D%3D/SingleFile/periscope-broadcast-1kvJpljLkqaJE_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=5a327b3a5162958ee7ef6dceb756ba270e6c440dc4495d745ca9eb0eec0b9b5f",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1lPJqzPVObExb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/uTFIO2Geay2plKuFCy5AVbVRey6Ih26lzhw18X0P5Wib5hhtPDZMieNFqz70Z-1AGEPgsgnB-R_wIQYIAaqyNQ%3D%3D/SingleFile/periscope-broadcast-1lPJqzPVObExb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=ff73aca612ea632aa2f7890fc081dd157843baf63f638510f9ac6c32b935ea8f",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1ypKdOqrRXvxW",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/T875AuLG468HDnSVZl1W62lRpauA350Abu6WnmawEa927qaxHhPp_n-aFQfcXUYVIhkkTaNGRMFrTn2HHCyXDQ/SingleFile/periscope-broadcast-1ypKdOqrRXvxW_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=0d85b0976c4d3b58f9d79987ae14bf10754d01e5f6de5e26f6ebebef8d8a9be6",
+    "expiration_epoch_seconds": 1657488009,
+    "updated_at_epoch_seconds": 1656883209
+  },
+  {
+    "broadcast_id": "1BRJjXrndQoKw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/U4mxowyVxLVbDOptS-7XPv-82lvXx_LGifhO00RCPXm0Fjke6ciluleniSy_GbB3uwcNeqOLZZVeqbkzlKj66A/SingleFile/periscope-broadcast-1BRJjXrndQoKw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212054Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1f2d9852385e64462fb7fa2f4c96c5990b050fe5bb647753a1c75da10781fe41",
+    "expiration_epoch_seconds": 1657488054,
+    "updated_at_epoch_seconds": 1656883254
+  },
+  {
+    "broadcast_id": "1dRJZADwYwDGB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/xvcAT2-NuJOiQ8_gtI3QUQIfmRGHYYK5h9aplwsh9Qcevj0IdfgaEUkYusjsWgyA9DxvwlYR7TPbPVn5elMMbg/SingleFile/periscope-broadcast-1dRJZADwYwDGB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212021Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=3eed35033d5b1b7542c787f9dbef8d294c08f1a83ac7894e4bb14242509b58cf",
+    "expiration_epoch_seconds": 1657488021,
+    "updated_at_epoch_seconds": 1656883221
+  },
+  {
+    "broadcast_id": "1nAJEzrmPNvxL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/ZI-wkqzAr79xr34T3LpQzew0A9VsIrA8LCIdFoPYN3GX2EnI3FPkUWFyj9AhQVlkMeAiABHsCkOM1KIF7vWqYw/SingleFile/periscope-broadcast-1nAJEzrmPNvxL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=0faae4c09a9e5e342345385d9f8a27f1e980713c57f85ed3ce92566f2612bf7b",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1nAJEBplmbYxL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/1GTOiLsP--6MVZyN6CMz59qvewip2M0eK0b32gwccu-5nMTFD7qXSpOoiItbMhTWlhmn4m2tUvsr1zJ7FPS7Og/SingleFile/periscope-broadcast-1nAJEBplmbYxL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=eae49dd0742e06de392a84060c4a22786e992e31f94e7338fa6c90d034665a7d",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1mrGmwVlLwqxy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/u3SZA-TINEc_DmOlpepp6ln2pcyxK-O_A7xrc2nhfGKTbEvd8Zd4YblLtfZQBJf6pHzJ1uedwxaFrjMBXtGVng/SingleFile/periscope-broadcast-1mrGmwVlLwqxy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=04676cfb70ab0bc524ae571eb5ef17e8f989fa119bb4eca45846f4c795691802",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1YpKkvERLVMxj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/oAOy3_NyNnFxtYt9RkRvwJKJ0wbFbGd0OBpsOW4RFTZQDX19at_mlq5e_m0H0xmVfeeAyen3js7n_n8CrGzxtQ/SingleFile/periscope-broadcast-1YpKkvERLVMxj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e65b2f80c8cbb3702cc8231a06acbb2b34465d6e8f103be3443ad4fe5f4c137b",
+    "expiration_epoch_seconds": 1657488001,
+    "updated_at_epoch_seconds": 1656883201
+  },
+  {
+    "broadcast_id": "1jMJgQwnPMXKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/zLwU9zEPqNevDOaaoYuJYuEVTSPvYy78YAuKoPCg3_DBR6yqQSYpjtnsnmW0tYYY-2GOudWwTouQEId7mIuZ3w/SingleFile/periscope-broadcast-1jMJgQwnPMXKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2f63b717dad6787981db7a776886df6a63b5b3e9a438eeb76c2a8f670a478ff2",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1MYGNNwyEzyGw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Gc_gKJYakqUjxC6InN7qvodND4DvnDhNb51_kGPzCm6diOqZvwh0hfcpLTRvVLjBC9ZFrcgaxRPakgLnO8SutA%3D%3D/SingleFile/periscope-broadcast-1MYGNNwyEzyGw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=1fcc4c4cb5a5b280e953d1fe679225f02e7fbfaa71a918ab9a925d428b431c9f",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1rmxPRZmNPdGN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/8YMaP-wa-PP33RJ957kjmNsUHwT5nF1fxBEf4dINi5-ui0YiQSTkdGSmMLaiNlcXFh6HUuoCMmfGKzeGdqo_8Q%3D%3D/SingleFile/periscope-broadcast-1rmxPRZmNPdGN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=7f03a8f0ba9ac00a7e036e89de495350b506c50e18ff0541a1beb19fbe47c80e",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1RDxlqWpWnRKL",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/u8TMNzS_ZYAwWZn_f4xmjPjfveC1t1TiImh5Ncfm1SyKinOQN4vVmPs1oGu1BXsWKTt0e83h0Nt5RjRZv4u3vQ/SingleFile/periscope-broadcast-1RDxlqWpWnRKL_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212008Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=765b77f44ad2b6641d9a3d174e8b6918da5a056ceabf3b3f7588d92cc5a921a0",
+    "expiration_epoch_seconds": 1657488008,
+    "updated_at_epoch_seconds": 1656883208
+  },
+  {
+    "broadcast_id": "1gqxvoLAAAkKB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/nPxx_5vcfAqHAbxryUGLwTBbzPD703n-lXtmcYbrFxXygkvdF84-L4QQPHtZmX8wB26hkgD5HG9clSCYWRvyQQ/SingleFile/periscope-broadcast-1gqxvoLAAAkKB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=7d1881c0f99b6f7d115caa738185a5faf7a9108ce744d1302d213596818f6753",
+    "expiration_epoch_seconds": 1657488175,
+    "updated_at_epoch_seconds": 1656883375
+  },
+  {
+    "broadcast_id": "1YqGoZmEkwNKv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/3Kj9aS9sFewzcMEsV6Tp5QqVSWSvfo-6oLSQTN3KY4unDQF-neJAs7JgGZsNgy3q9LIpv0QxRo9_EGUDwgYw1A%3D%3D/SingleFile/periscope-broadcast-1YqGoZmEkwNKv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=fa9be2cb7a2b6c5f986e03694fa18c480a37540c9dda5b72fad1bae528df7130",
+    "expiration_epoch_seconds": 1657487996,
+    "updated_at_epoch_seconds": 1656883196
+  },
+  {
+    "broadcast_id": "1lPKqopvRyZJb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/LcgMDsQ3GILtaR1rDWOQGU8omA5lT9aVQ-OR6NRO6S5FV9yv_ooqCdbeKCxRu5VEFD5z7NhUrzdh-7gVmjiK_A/SingleFile/periscope-broadcast-1lPKqopvRyZJb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=ea972ab6bbe9a1ea14dd42abae57324d00fb80fe7cca23ff51c2bb14c9734318",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1LyGBbjzvOyGN",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/IquR1zndXX_Sbkb7YbVcqvfzeckFgJCswOFysPKPPkcIS43uZgpacxVz3HaRmWo5L-fYkj-RSyo9Utw02SxEUw%3D%3D/SingleFile/periscope-broadcast-1LyGBbjzvOyGN_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e122cf5b14489d9ff77efac79bc0e93433af89180cf8688213ea6c273e2d34e7",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  },
+  {
+    "broadcast_id": "1BRJjBvMbNoJw",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/mUw8kK2jTEAdGTKnm9xYwAzkbjfQRflJgZN5B9A9q4QKoEpSP9WvL2SNrRbTzH3nxfkN4pYRpJn0aYt3xS0dLA/SingleFile/periscope-broadcast-1BRJjBvMbNoJw_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=873b63bbfdf53c815eafbf3181fe275b43310c6522559a994c4ae456db6b1a84",
+    "expiration_epoch_seconds": 1657488004,
+    "updated_at_epoch_seconds": 1656883204
+  },
+  {
+    "broadcast_id": "1ZkJzqbpmrDGv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/qvbryNrjhJKZKWxRp_aJog_fvPLlqxW6w1G8tFUBwAakD75thauF02ozubOZ63uZI-TNvKcdMeqMYnfY57UL3w/SingleFile/periscope-broadcast-1ZkJzqbpmrDGv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=26b3c7749adc84a8f1fed47bd76c6069931621f70393b0b1625d47f474911372",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1BdGYVjRwYvJX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Ze5hC9cD1OUl05-PDdXhR4rcqtplxBz80wDB7eOCAg6A-xk0BKWfoep2yJTmXzpj33whyhrHY7TBbDNqxI6eVA%3D%3D/SingleFile/periscope-broadcast-1BdGYVjRwYvJX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2d4a5eb62b4ed8cccdbe0de4ad9e6cff79e384728a8a7172769ebec36c07528e",
+    "expiration_epoch_seconds": 1657487999,
+    "updated_at_epoch_seconds": 1656883199
+  },
+  {
+    "broadcast_id": "1yoKMzDMOoNGQ",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Rz9acW3R4UEUmpzYm0TdZSty99OTA1HIblbEfTln115MTgXK1Sl3D592GwlH5EutBtsBBvnBdOR5AwDPb3GVkg/SingleFile/periscope-broadcast-1yoKMzDMOoNGQ_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=76e83d4e91b53f73b4318547109f663870330a95faa56eafde312bcaedae2356",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1YqGomabyVNxv",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/5aSIj_T2sqkwJBWTtYDDZ--JYLuVy0B7cSgwxrkAeTsZa69eVspuLJFl2z8fSI7UTmgwY2c0I_Kq_1H-FRnc9g/SingleFile/periscope-broadcast-1YqGomabyVNxv_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=f6e41959882d4c0fad9163b8eabc232cfd6ff7d95d5981c9472b5977ce609845",
+    "expiration_epoch_seconds": 1657488002,
+    "updated_at_epoch_seconds": 1656883202
+  },
+  {
+    "broadcast_id": "1gqxvBdBLzpxB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/S2pwVJ1n5Ebww0CRoxJfqgROaCdvIePTebZtPJQeZkd_YyQUi7e9jcRBwe_NBQ4NATW6rgDbDGBL2dwlR2SKsg%3D%3D/SingleFile/periscope-broadcast-1gqxvBdBLzpxB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=ab7878654e1994640db741f9083d7d0034bf56eb61dee6c4c23747b30bf79dfe",
+    "expiration_epoch_seconds": 1657487994,
+    "updated_at_epoch_seconds": 1656883194
+  },
+  {
+    "broadcast_id": "1mrxmQBoMokxy",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/KsT7LwZmX6JFZ2aslYCXm2zVD9fNeaAn0aPzclTnERarOahxAyvGfpuFycJXtDTUo88pzvsrsxTze4ttm05Nxw/SingleFile/periscope-broadcast-1mrxmQBoMokxy_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212008Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=2e1d03f569028b8b6bc7494d89366043b70b63cad65810817a2a650c9e7607e7",
+    "expiration_epoch_seconds": 1657488008,
+    "updated_at_epoch_seconds": 1656883208
+  },
+  {
+    "broadcast_id": "1ynJOPNPbEQxR",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/JytqkL0V9uAm2uXrDow8tMDQL-gI2cBIvX5RLBxMGNRPs4RkliDsfy_NedjbKpKjLcHYWrp37XxCUrWZU8Dfeg%3D%3D/SingleFile/periscope-broadcast-1ynJOPNPbEQxR_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=7e86d5d462157870251879c9e3d14fe4f1b28608d97b53dd9c2f12ef46ba1ffc",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1YqKDedPgYOGV",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/Zkymt-F19sACRHihas6A3EiXeHrpk7WclI-p12gdy5tkTTB0QAag_yB-Sta5iy6OjirDiABG4UI97X6eEQa8mA/SingleFile/periscope-broadcast-1YqKDedPgYOGV_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=cb48a209834164b2268f6e1026f7d5e5011b565eb519299a4bef0924106fb0ab",
+    "expiration_epoch_seconds": 1657488013,
+    "updated_at_epoch_seconds": 1656883213
+  },
+  {
+    "broadcast_id": "1lPKqXallEYxb",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/syPTq4cthk7YR_ihM1iq9w4Qt92qUobS1cYLGTbSLKmr0Lak9PmsBj8NZLUClwGWzLcbwaxMlsU2tpbGQXaFpA/SingleFile/periscope-broadcast-1lPKqXallEYxb_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e2b8cd749f4d8592c245bdded481c53aad8141186e6deb8e0d563fc1cd0da777",
+    "expiration_epoch_seconds": 1657487998,
+    "updated_at_epoch_seconds": 1656883198
+  },
+  {
+    "broadcast_id": "1yNGaWNDrXbxj",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/bC5VHJHrCz3zj6OdobklWslLIFrw-hwIv9Zwncfqjcwu_viy_Vr74sATedGoAp_BfekbvBoUWtVNQPsd_NpOOg/SingleFile/periscope-broadcast-1yNGaWNDrXbxj_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211955Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=e3345b42983e24ccad9f414f6129222cc323830414b84c500bd7f72ca21ce248",
+    "expiration_epoch_seconds": 1657487995,
+    "updated_at_epoch_seconds": 1656883195
+  },
+  {
+    "broadcast_id": "1dRJZVqQWgrJB",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/NBj-tBisACfbxLlQIVTXD_LSBKlIxLsGU8ia0CYfdNmw_v59zB2wKSj_kE6QCsqzoXtgziCz09XdOZHiuqKUCw%3D%3D/SingleFile/periscope-broadcast-1dRJZVqQWgrJB_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T211957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=764a45bde2a68ee3e072df703c4468206eb57c7cf2183f2183f462e5e57e7d2c",
+    "expiration_epoch_seconds": 1657487997,
+    "updated_at_epoch_seconds": 1656883197
+  },
+  {
+    "broadcast_id": "1eaJbedrNyZGX",
+    "status": "Success",
+    "url": "https://prod-periscope-broadcast-export-us-west-2.s3.us-west-2.amazonaws.com/fMQNsfqwlzFIK-YPmhO4GYKsY90mYyo-un-jBo3Po0kFfeoMQmEkDLbYvoKYBgn-fQodHigS-lDfVXsCMJoGsw%3D%3D/SingleFile/periscope-broadcast-1eaJbedrNyZGX_0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJGCZOCB2ULPVHGAA%2F20220703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220703T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&response-cache-control=no-store&X-Amz-Signature=056cd429d0a2b3e68f102be79663392fb6c391b80ae888717fafd74ac51f2187",
+    "expiration_epoch_seconds": 1657488000,
+    "updated_at_epoch_seconds": 1656883200
+  }
+]
